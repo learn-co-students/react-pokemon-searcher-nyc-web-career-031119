@@ -6558,6 +6558,81 @@
         "back":
           "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
       }
+    },
+    {
+        "name": "Buzzwole",
+        "sprites": {
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png",
+          "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/794.png"
+        },
+        "stats": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          { "value": 107}
+        ]
+    },
+    {
+        "name": "Dedenne",
+        "sprites": {
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png",
+          "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/702.png"
+        },
+        "stats": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          { "value": 67}
+        ]
+    },
+    {
+        "name": "Flabebe",
+        "sprites": {
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png",
+          "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/669.png"
+        },
+        "stats": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          { "value": 44}
+        ]
+    },
+    {
+        "name": "Tapu Bulu",
+        "sprites": {
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png",
+          "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/787.png"
+        },
+        "stats": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          { "value": 70}
+        ]
+    },
+    {
+        "name": "Cofagrigus",
+        "sprites": {
+          "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/563.png",
+          "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/563.png"
+        },
+        "stats": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          { "value": 58}
+        ]
     }
   ]
 }
