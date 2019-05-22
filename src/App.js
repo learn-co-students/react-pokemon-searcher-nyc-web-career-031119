@@ -6,6 +6,6 @@ const App = () => (
   <div className="App">
     <PokemonIndex />
   </div>
-)
+);
 
 export default App
